@@ -1,0 +1,45 @@
+
+/* Class = "UILabel"; text = "困扰项"; ObjectID = "41T-68-tgF"; */
+"41T-68-tgF.text" = "困扰项";
+
+/* Class = "UITabBarItem"; title = "选择终结"; ObjectID = "5Rh-Ao-bKM"; */
+"5Rh-Ao-bKM.title" = "选择终结";
+
+/* Class = "UIBarButtonItem"; title = "编辑"; ObjectID = "6Yj-Ej-TXr"; */
+"6Yj-Ej-TXr.title" = "编辑";
+
+/* Class = "UIBarButtonItem"; title = "返回"; ObjectID = "8xt-mB-acj"; */
+"8xt-mB-acj.title" = "返回";
+
+/* Class = "UITextField"; placeholder = "请输入困扰项"; ObjectID = "EBN-it-INU"; */
+"EBN-it-INU.placeholder" = "请输入困扰项";
+
+/* Class = "UIButton"; normalTitle = "保 存"; ObjectID = "RpT-Zm-vbh"; */
+"RpT-Zm-vbh.normalTitle" = "保 存";
+
+/* Class = "UIButton"; normalTitle = "终结者"; ObjectID = "Wed-8w-wYM"; */
+"Wed-8w-wYM.normalTitle" = "终结者";
+
+/* Class = "UILabel"; text = "困扰项"; ObjectID = "YqQ-GD-NrD"; */
+"YqQ-GD-NrD.text" = "困扰项";
+
+/* Class = "UINavigationItem"; title = "查看困扰项"; ObjectID = "ayK-TW-Kt5"; */
+"ayK-TW-Kt5.title" = "查看困扰项";
+
+/* Class = "UINavigationItem"; title = "选择困扰项"; ObjectID = "cC9-zf-6mc"; */
+"cC9-zf-6mc.title" = "选择困扰项";
+
+/* Class = "UIButton"; normalTitle = "保 存"; ObjectID = "don-P7-AkO"; */
+"don-P7-AkO.normalTitle" = "保 存";
+
+/* Class = "UINavigationItem"; title = "选择终结者"; ObjectID = "nvV-up-jpd"; */
+"nvV-up-jpd.title" = "选择终结者";
+
+/* Class = "UINavigationItem"; title = "添加困扰项"; ObjectID = "q5k-Uo-dzL"; */
+"q5k-Uo-dzL.title" = "添加困扰项";
+
+/* Class = "UITabBarItem"; title = "困扰选择"; ObjectID = "qw3-Ao-6MX"; */
+"qw3-Ao-6MX.title" = "困扰选择";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zuz-dQ-gzb"; */
+"zuz-dQ-gzb.text" = "Title";

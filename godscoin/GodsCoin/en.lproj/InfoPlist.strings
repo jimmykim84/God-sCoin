@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  GodsCoin
+
+  Created by jimmykim on 15/6/15.
+  Copyright (c) 2015年 cn.edu.hhtc. All rights reserved.
+*/
+CFBundleDisplayName = "God's Coin";

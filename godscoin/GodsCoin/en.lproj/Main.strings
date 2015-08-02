@@ -1,0 +1,45 @@
+
+/* Class = "UITabBarItem"; title = "God's Coin"; ObjectID = "5Rh-Ao-bKM"; */
+"5Rh-Ao-bKM.title" = "God's Coin";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "6Yj-Ej-TXr"; */
+"6Yj-Ej-TXr.title" = "Edit";
+
+/* Class = "UILabel"; text = "Input your hesitant item"; ObjectID = "7aW-eb-MWx"; */
+"7aW-eb-MWx.text" = "Input your hesitant item";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "8xt-mB-acj"; */
+"8xt-mB-acj.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "hesitant item"; ObjectID = "EBN-it-INU"; */
+"EBN-it-INU.placeholder" = "hesitant item";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "RpT-Zm-vbh"; */
+"RpT-Zm-vbh.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "God's Coin"; ObjectID = "Wed-8w-wYM"; */
+"Wed-8w-wYM.normalTitle" = "God's Coin";
+
+/* Class = "UINavigationItem"; title = "Alter hesitant item"; ObjectID = "ayK-TW-Kt5"; */
+"ayK-TW-Kt5.title" = "Alter hesitant item";
+
+/* Class = "UINavigationItem"; title = "Hesitant Options"; ObjectID = "cC9-zf-6mc"; */
+"cC9-zf-6mc.title" = "Hesitant Options";
+
+/* Class = "UILabel"; text = "Click edit to alter hesitant item"; ObjectID = "cxb-Xq-wIs"; */
+"cxb-Xq-wIs.text" = "Click edit to alter hesitant item";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "don-P7-AkO"; */
+"don-P7-AkO.normalTitle" = "Save";
+
+/* Class = "UINavigationItem"; title = "God's Coin"; ObjectID = "nvV-up-jpd"; */
+"nvV-up-jpd.title" = "God's Coin";
+
+/* Class = "UINavigationItem"; title = "Add your hesitant item"; ObjectID = "q5k-Uo-dzL"; */
+"q5k-Uo-dzL.title" = "Add your hesitant item";
+
+/* Class = "UITabBarItem"; title = "Hesitant Options"; ObjectID = "qw3-Ao-6MX"; */
+"qw3-Ao-6MX.title" = "Hesitant Options";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zuz-dQ-gzb"; */
+"zuz-dQ-gzb.text" = "Title";
